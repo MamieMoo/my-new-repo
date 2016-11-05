@@ -25,7 +25,7 @@ get_header(); ?>
 					?>
 
 				</div>
-				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Blog</a>
+				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Awesome Blog</a>
 			<?php endwhile; ?>
 		</div>
 	</div>
