@@ -25,7 +25,9 @@ get_header(); ?>
 					?>
 
 				</div>
-				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Poopy Blog</a>
+
+				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My super fabulous Blog</a>
+
 			<?php endwhile; ?>
 		</div>
 	</div>
